@@ -36,4 +36,5 @@ Dependency:
 -cuda: 12.1
 
 ## Experimental results
+on CartPole-v1 environment
 <img src="images/single_eval_return.png">
