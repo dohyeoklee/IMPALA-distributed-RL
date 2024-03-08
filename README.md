@@ -36,4 +36,4 @@ Dependency:
 -cuda: 12.1
 
 ## Experimental results
-<img src="images/single_eval_return.pdf">
+<img src="images/single_eval_return.png">
