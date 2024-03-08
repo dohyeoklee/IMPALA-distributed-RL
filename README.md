@@ -1,5 +1,5 @@
 # IMPALA-distributed-RL
-implementation of IMPALA(deepmind 2018) as distributed machine settings
+implementation of IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures(deepmind 2018) as distributed machine settings
 
 ## System overview
 <img src="images/impala_system_overview.png">
